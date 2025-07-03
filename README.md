@@ -20,8 +20,8 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alikanadira&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alikanadira&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alikanadirap&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alikanadirap&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -55,5 +55,5 @@
 
 <!-- Optionally: visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alikanadira&label=Profile%20views&color=0e75b6&style=flat" alt="alikanadira" />
+  <img src="https://komarev.com/ghpvc/?username=alikanadirap&label=Profile%20views&color=0e75b6&style=flat" alt="alikanadira" />
 </p>
