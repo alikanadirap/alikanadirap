@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alikanadirap&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alikanadirap&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=alikanadirap&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
