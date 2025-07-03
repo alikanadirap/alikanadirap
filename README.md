@@ -2,7 +2,7 @@
 <h3 align="center">🌸 A passionate Software Developer & Tech Enthusiast from Indonesia 🌸</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-girl">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400" alt="girl-coding-gif">
 </p>
 
 ---
@@ -48,12 +48,11 @@
 > I believe that code is a canvas, and developers are artists who paint the future.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs7KViFQvRfuRtDi/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" />
 </p>
 
 ---
 
-<!-- Optionally: visitor counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alikanadirap&label=Profile%20views&color=0e75b6&style=flat" alt="alikanadira" />
+  <img src="https://komarev.com/ghpvc/?username=alikanadirap&label=Profile%20views&color=0e75b6&style=flat" alt="alikanadirap" />
 </p>
