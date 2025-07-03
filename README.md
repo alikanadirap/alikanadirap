@@ -25,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alikanadirap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
        width="48%" alt="Alika's GitHub Stats" />
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=alikanadirap&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-       width="48%" alt="Alika's GitHub Streak" />
-
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikanadirap&layout=compact&theme=tokyonight&hide_border=true" 
        width="48%" alt="Alika's Top Languages" />
